@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int num;
     int reverse = 0;
-    cout << "enter a number: "; // Syntax Error corrected: missing double quotes around the string literal
+    cout << "enter a number: ";  
     cin >> num;
 
     while(num > 0) {
